@@ -1,0 +1,21 @@
+# compiled output
+/dist
+**/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Tests
+/coverage
+
+# IDEs and editors
+/.idea
+*.iml
+
+# Environment
+.env
+
+# temp
+/apps/client/src/features/counter
