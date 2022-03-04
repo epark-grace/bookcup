@@ -1,6 +1,7 @@
 {
-  "name": "client",
-  "version": "0.1.0",
+  "name": "bookcup-client",
+  "version": "0.0.1",
+  "author": "E. Park",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",

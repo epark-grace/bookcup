@@ -1,8 +1,8 @@
 {
-  "name": "librarian",
+  "name": "bookcup",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "북카페를 위한 편리한 도서 관리 서비스",
+  "author": "E. Park",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
